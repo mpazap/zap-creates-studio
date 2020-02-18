@@ -50,7 +50,7 @@ export default createSchema({
     responsibleParty,
     billing,dox,
     member,
-    task
+    task,
     
 
     // When added to this list, object types can be used as
